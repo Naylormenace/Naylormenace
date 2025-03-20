@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Naylormenace
+- 👋 Hi, I’m Neo
 - 👀 I’m interested in gaming & software dev
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a to-do list app
